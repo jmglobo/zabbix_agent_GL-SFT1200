@@ -1,5 +1,5 @@
-# Configurations instructions Zabbix agent for router  GL-SFT1200 (Opal)
-
+# Configurations instructions Zabbix agent for router  GL-SFT1200 (Opal) SO = OpenWRT
+ 
 1º You need download the package "zabbix-agentd". You can do this in Administration Panel > Applications
 
 2º Now, you take access to the router by ssh ----> root@[YOUR IP ROUTER]
